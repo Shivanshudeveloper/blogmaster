@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "./static/css/main.5579105b.chunk.css",
+    "main.js": "./static/js/main.0fbac9a6.chunk.js",
+    "main.js.map": "./static/js/main.0fbac9a6.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.a022a63b.js",
+    "runtime-main.js.map": "./static/js/runtime-main.a022a63b.js.map",
+    "static/js/2.ddd0d3b6.chunk.js": "./static/js/2.ddd0d3b6.chunk.js",
+    "static/js/2.ddd0d3b6.chunk.js.map": "./static/js/2.ddd0d3b6.chunk.js.map",
+    "static/js/3.76ccd967.chunk.js": "./static/js/3.76ccd967.chunk.js",
+    "static/js/3.76ccd967.chunk.js.map": "./static/js/3.76ccd967.chunk.js.map",
+    "index.html": "./index.html",
+    "static/css/main.5579105b.chunk.css.map": "./static/css/main.5579105b.chunk.css.map",
+    "static/js/2.ddd0d3b6.chunk.js.LICENSE.txt": "./static/js/2.ddd0d3b6.chunk.js.LICENSE.txt",
+    "static/media/index.scss": "./static/media/Poppins-SemiBold.cce5625b.ttf",
+    "static/media/BecomeAnAuthorImg.2b89178f.png": "./static/media/BecomeAnAuthorImg.2b89178f.png",
+    "static/media/Facebook.1a707b6f.svg": "./static/media/Facebook.1a707b6f.svg",
+    "static/media/Google.14c804f8.svg": "./static/media/Google.14c804f8.svg",
+    "static/media/SVG-subcribe2.473cccf0.png": "./static/media/SVG-subcribe2.473cccf0.png",
+    "static/media/Twitter.942c0e43.svg": "./static/media/Twitter.942c0e43.svg",
+    "static/media/about-hero-right.2b89178f.png": "./static/media/about-hero-right.2b89178f.png",
+    "static/media/hero-right.2b89178f.png": "./static/media/hero-right.2b89178f.png",
+    "static/media/line-awesome.css": "./static/media/la-solid-900.89363487.woff",
+    "static/media/placeholder-large-dark-h.473cccf0.png": "./static/media/placeholder-large-dark-h.473cccf0.png",
+    "static/media/placeholder-large-dark.ab6902b6.png": "./static/media/placeholder-large-dark.ab6902b6.png",
+    "static/media/placeholder-large-h.2b89178f.png": "./static/media/placeholder-large-h.2b89178f.png",
+    "static/media/placeholder-large.ed676656.png": "./static/media/placeholder-large.ed676656.png",
+    "static/media/podcast.7e9308bf.jpg": "./static/media/podcast.7e9308bf.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a022a63b.js",
+    "static/js/2.ddd0d3b6.chunk.js",
+    "static/css/main.5579105b.chunk.css",
+    "static/js/main.0fbac9a6.chunk.js"
+  ]
+}
