@@ -3,6 +3,7 @@ import Logo from "components/Logo/Logo";
 import Navigation from "components/Navigation/Navigation";
 import SearchDropdown from "./SearchDropdown";
 import ButtonPrimary from "components/Button/ButtonPrimary";
+import ButtonSecondary from "components/Button/ButtonSecondary";
 import MenuBar from "components/MenuBar/MenuBar";
 import DarkModeContainer from "containers/DarkModeContainer/DarkModeContainer";
 
@@ -27,6 +28,9 @@ const MainNav1: FC<MainNav1Props> = ({ isTop }) => {
             <DarkModeContainer />
             <SearchDropdown />
             <div className="px-1" />
+            <ButtonSecondary href="/login" className="mr-2">
+              Login
+            </ButtonSecondary>
             <ButtonPrimary href="/login">Sign up</ButtonPrimary>
           </div>
           <div className="flex items-center xl:hidden">
